@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{}importer la bibliotheque cluster}
+\PYG{k+kn}{library}\PYG{p}{(}cluster\PYG{p}{)}
+\PYG{c+c1}{\PYGZsh{}calculer la CAH}
+maCAH \PYG{o}{=} agnes\PYG{p}{(}CansosPondere100\PYG{p}{,}
+metric \PYG{o}{=}\PYG{l+s}{\PYGZdq{}manhattan\PYGZdq{}}\PYG{p}{,} method\PYG{o}{=}\PYG{l+s}{\PYGZdq{}ward\PYGZdq{}}\PYG{p}{)}
+\PYG{c+c1}{\PYGZsh{}consulter les resultats}
+\PYG{k+kp}{summary}\PYG{p}{(}maCAH\PYG{p}{)}
+\PYG{c+c1}{\PYGZsh{}les tracer}
+plot\PYG{p}{(}maCAH\PYG{p}{)}
+\end{Verbatim}

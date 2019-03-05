@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="Jean-Baptiste Camps et Simon Gabay"
+        date="2019-04-05"
+        desc="&lt;pre&gt;&lt;br/&gt;Andromaque&lt;br/&gt;Corpus du Mans&lt;br/&gt; 2019-04-19&lt;br/&gt;&lt;/pre&gt;"
+        name="ANDROMAQUE"
+        rootDir="/Users/gabaysimon/Desktop/LeMans_05_03_19/01_TXM/corpora/01_andromaque"
+        script="xmlLoader.groovy"
+        version="0.7.9">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="true"
+              cqpid="ANDROMAQUE1551735375779"
+              desc="&lt;pre&gt;&lt;br/&gt;Andromaque&lt;br/&gt;Corpus du Mans&lt;br/&gt; 2019-04-19&lt;br/&gt;&lt;/pre&gt;"
+              encoding="UTF-8"
+              font=""
+              lang="fr"
+              name="ANDROMAQUE">
+         <tokenizer onlyThoseTests="false" skip="false">
+            <param name="whitespaces">[\p{Z}\p{C}]+</param>
+            <param name="regPunct">[\p{Ps}\p{Pe}\p{Pi}\p{Pf}\p{Po}\p{S}]</param>
+            <param name="punct_strong">[.!?]+|\.\.|\.\.\.|…|\|</param>
+            <param name="regElision">['‘’]</param>
+         </tokenizer>
+         <xslt xsl=""/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis>
+            <ui command="textualplans">
+               <word>w</word>
+            </ui>
+            <ui command="concordance">
+               <context_limits type="list">text</context_limits>
+            </ui>
+         </uis>
+         <editions default="default">
+       	    <edition build_edition="true"
+                     mode="groovy"
+                     name="default"
+                     page_break_tag="pb"
+                     script="pager.groovy"
+                     words_per_page="500"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <knowledgeRepositories/>
+         <preBuild/>
+         <parameters/>
+      </corpus>
+   </corpora>
+</import>

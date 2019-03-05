@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+agnes\PYG{p}{(}x\PYG{p}{,} diss \PYG{o}{=} \PYG{k+kp}{inherits}\PYG{p}{(}x\PYG{p}{,} \PYG{l+s}{\PYGZdq{}dist\PYGZdq{}}\PYG{p}{),}
+metric \PYG{o}{=} \PYG{l+s}{\PYGZdq{}euclidean | manhattan\PYGZdq{}}\PYG{p}{,}
+stand \PYG{o}{=} \PYG{k+kc}{FALSE}\PYG{p}{,}
+method \PYG{o}{=} \PYG{l+s}{\PYGZdq{}average|single|complete|ward|weighted\PYGZdq{}}\PYG{p}{,}
+par.method\PYG{p}{,}
+keep.diss \PYG{o}{=} n \PYG{o}{\PYGZlt{}} \PYG{l+m}{100}\PYG{p}{,} keep.data \PYG{o}{=} \PYG{o}{!}diss\PYG{p}{)}
+\end{Verbatim}

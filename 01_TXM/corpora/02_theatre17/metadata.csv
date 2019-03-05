@@ -1,0 +1,38 @@
+id,auteur,titre,date,genre,inspiration,structure,type,periode,taille,permalien
+BOYER_AMOURSJUPITERSEMELE_1666,"BOYER, Claude","LES AMOURS DE JUPITER ET DE SÉMÉLÉ, TRAGÉDIE",1666,Tragédie,mythe grec,"Cinq actes, un prologue",vers,1661-1670,2000-2250,http://gallica.bnf.fr/ark:/12148/bpt6k83827k
+BOYER_AGAMEMNON_1680,"BOYER, Claude","AGAMEMNON, TRAGÉDIE.",1680,Tragédie,mythe grec,Cinq actes,vers,1671-1680,1500-1750,
+BOYER_ARTAXERCE_1683,"BOYER, Claude","ARTAXERCE, TRAGÉDIE",1683,Tragédie,histoire perse,Cinq actes,vers,1681-1690,1500-1750,
+BOYER_ARISTODEME_1648,"BOYER, Claude",ARISTODÈME,1648,Tragédie,histoire grecque,Cinq actes,vers,1641-1650,1250-1500,http://gallica.bnf.fr/ark:/12148/bpt6k71607q
+CORNEILLEP_MEDEE_1682,"CORNEILLE, Pierre","MÉDÉE, TRAGÉDIE",1682,Tragédie,mythe grec,Cinq actes,vers,1681-1690,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k70142m
+CORNEILLEP_ILLUSIONCOMIQUE_1639,"CORNEILLE, Pierre","L'ILLUSION COMIQUE, COMÉDIE",1639,Comédie,moeurs françaises,Cinq actes,vers,1631-1640,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k70407x
+CORNEILLEP_ANDROMEDE_1651,"CORNEILLE, Pierre","ANDROMÈDE, TRAGÉDIE.",1651,Tragédie,mythe grec,"Cinq actes, un prologue",vers,1641-1650,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k70397f
+CORNEILLEP_CID_1682,"CORNEILLE, Pierre","LE CID, TRAGÉDIE",1682,Tragédie,histoire espagnole,Cinq actes,vers,1681-1690,1750-2000,http://gallica.bnf.fr/ark:/12148/bpt6k70143z
+CORNEILLET_BRADAMANTE_1695,"CORNEILLE, Thomas","BRADAMANTE, TRAGÉDIE",1695,Tragédie,histoire française,Cinq actes,vers,1691-1700,1750-2000,
+CORNEILLET_ARIANE_1672,"CORNEILLE, Thomas","ARIANE, TRAGÉDIE",1672,Tragédie,mythe grec,Cinq actes,vers,1671-1680,1750-2000,http://gallica.bnf.fr/ark:/12148/bpt6k5772310n
+CORNEILLET_GEOLIERDESOISMEME_1655,"CORNEILLE, Thomas","LE GEÔLIER DE SOI-MÊME, COMÉDIE.",1655,Comédie,moeurs italiennes,Cinq actes,vers,1651-1660,1750-2000,
+CORNEILLET_AMOURALAMODE_1651,"CORNEILLE, Thomas","L'AMOUR À LA MODE, COMÉDIE. ",1651,Comédie,moeurs espagnoles,Cinq actes,vers,1651-1660,1750-2000,
+DURYER_DYNAMIS_1653,"DU RYER, Pierre","DYNAMIS, REINE DE CARIE. TRAGI-COMÉDIE",1653,Tragi-comédie,moeurs françaises,Cinq actes,vers,1651-1660,1750-2000,http://gallica.bnf.fr/ark:/12148/bpt6k111551b
+DURYER_ESTHER_1644,"DU RYER, Pierre","ESTHER, TRAGÉDIE.",1644,Tragédie,bible,Cinq actes,vers,1641-1650,1750-2000,http://gallica.bnf.fr/ark:/12148/bpt6k71601n
+DURYER_CLITOPHON_1632,"DU RYER, Pierre","CLITOPHON, TRAGI-COMÉDIE",1632,Tragi-comédie,mythe grec,Cinq actes,vers,1631-1640,1750-2000,http://gallica.bnf.fr/ark:/12148/btv1b9063652p
+DURYER_CLARIGENE_1639,"DU RYER, Pierre","CLARIGÈNE, TRAGICOMÉDIE.",1639,Tragi-comédie,bible,Cinq actes,vers,1631-1640,1750-2000,http://gallica.bnf.fr/ark:/12148/bpt6k71577
+MOLIERE_DOMGARCIEDENAVARRE_1682,MOLIÈRE,"DON GARCIE DE NAVARRE, COMÉDIE",1682,Comédie,moeurs espagnoles,Cinq actes,vers,1661-1670,1750-2000,
+MOLIERE_MISANTHROPE_1667,MOLIÈRE,"LE MISANTHROPE ou L'ATRABILAIRE AMOUREUX, COMÉDIE",1667,Comédie,moeurs françaises,Cinq actes,vers,1661-1670,1750-2000,http://gallica.bnf.fr/ark:/12148/btv1b8610797j
+MOLIERE_TARTUFFE_1669,MOLIÈRE,"LE TARTUFFE ou L'IMPOSTEUR, COMÉDIE",1669,Comédie,moeurs françaises,Cinq actes,vers,1661-1670,1750-2000,"http://gallica.bnf.fr/ark:/12148/btv1b8610800k
+				"
+MOLIERE_AMPHITRYON_1668,MOLIÈRE,"AMPHITRYON, COMÉDIE",1668,Comédie,mythe grec,"Trois actes, un prologue",vers,1661-1670,1750-2000,
+RACINE_BERENICE_1671,"RACINE, Jean","BÉRÉNICE, TRAGÉDIE",1671,Tragédie,histoire romaine,Cinq actes,vers,1671-1680,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k70159b
+RACINE_IPHIGENIE_1675,"RACINE, Jean","IPHIGÉNIE, TRAGÉDIE.",1675,Tragédie,mythe grec,Cinq actes,vers,1671-1680,1750-2000,http://gallica.bnf.fr/ark:/12148/bpt6k70413v
+RACINE_ESTHER_1689,"RACINE, Jean","ESTHER, TRAGÉDIE tirée de l'écriture sainte.",1689,Tragédie,bible,"Trois actes, un prologue",vers,1681-1690,1250-1500,http://gallica.bnf.fr/ark:/12148/bpt6k704146
+RACINE_PHEDRE_1697,"RACINE, Jean","PHÈDRE, TRAGÉDIE",1697,Tragédie,mythe grec,Cinq actes,vers,1691-1700,1500-1750,http://gallica.bnf.fr/ark:/12148/btv1b8610817v
+ROTROU_HERCULEMOURANT_1636,"ROTROU, Jean","HERCULE MOURANT, TRAGÉDIE",1636,Tragédie,mythe grec,Cinq actes,vers,1621-1630,1250-1500,http://gallica.bnf.fr/ark:/12148/bpt6k72394w
+ROTROU_DOMBERNARDDECABRERE_1647,"ROTROU, Jean","DON BERNARD DE CABRERE, TRAGI-COMÉDIE",1647,Tragi-comédie,histoire espagnole,Cinq actes,vers,1641-1650,1750-2000,
+ROTROU_COSROES_1649,"ROTROU, Jean","COSROËS, TRAGÉDIE.",1649,Tragédie,histoire orientale,Cinq actes,vers,1641-1650,1500-1750,http://gallica.bnf.fr/ark:/12148/cb3125874w
+ROTROU_DEUXPUCELLES_1639,"ROTROU, Jean","LES DEUX PUCELLES, TRAGI-COMÉDIE",1639,Tragi-comédie,histoire romaine,Cinq actes,vers,1631-1640,1750-2000,
+SCARRON_FAUSSEAPPARENCE_1663,"SCARRON, Paul",LA FAUSSE APPARENCE COMÉDIE.,1663,Tragi-comédie,moeurs espagnoles,Cinq actes,vers,1661-1670,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k73882h
+SCARRON_GARDIENDESOIMEME_1654,"SCARRON, Paul",LE GARDIEN DE SOI-MÊME,1654,Comédie,moeurs italiennes,Cinq actes,vers,1651-1660,1750-2000,
+SCARRON_DOMJAPHETDARMENIE_1653,"SCARRON, Paul","DON JAPHET D'ARMÉNIE, COMÉDIE.",1653,Comédie,moeurs françaises,Cinq actes,vers,1651-1660,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k70326x
+SCARRON_ECOLIERDESALAMANQUE_1655,"SCARRON, Paul",L'ESCOLIER DE SALAMANQUE OU LES GÉNÉREUX ENNEMIS TRAGI-COMÉDIE.,1655,Tragi-comédie,moeurs espagnoles,Cinq actes,vers,1651-1660,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k841852
+SCUDERY_PRINCEDEGUISE_1636,"SCUDERY, Georges de","LE PRINCE DÉGUISÉ, TRAGI-COMÉDIE",1636,Tragi-comédie,histoire médiévale,Cinq actes,vers,1631-1640,1500-1750,http://gallica.bnf.fr/ark:/12148/bpt6k5620674c
+SCUDERY_MORTDECESAR_1637,"SCUDERY, Georges de","LA MORT DE CÉSAR, TRAGÉDIE.",1637,Tragédie,histoire romaine,Cinq actes,vers,1631-1640,1250-1500,http://gallica.bnf.fr/ark:/12148/bpt6k71623z
+SCUDERY_VASSALGENEREUX_1636,"SCUDERY, Georges de",LE VASSAL GÉNÉREUX - TRAGI-COMÉDIE,1636,Tragi-comédie,moeurs françaises,Cinq actes,vers,1631-1640,1250-1500,
+SCUDERY_ORANTE_1636,"SCUDERY, Georges de","ORANTE, TRAGI-COMÉDIE",1636,Tragi-comédie,histoire médiévale,Cinq actes,vers,1631-1640,1250-1500,

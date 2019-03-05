@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="jbc"
+        date="2018-02-13"
+        desc="&lt;pre&gt;&lt;br/&gt;Corpus créé pour la formation TXM à Neuchâtel&lt;br/&gt;- JB Camps&lt;br/&gt;- 13 février 2018&lt;br/&gt;- source: Paul Fièvre, Théâtre classique&lt;br/&gt;&lt;/pre&gt;"
+        name="LEMANSXML"
+        rootDir="/Users/gabaysimon/Desktop/LeMans_05_03_19/01_TXM/corpora/02_theatre17/txm_import2_xml"
+        script="xmlLoader.groovy"
+        version="0.7.9">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="true"
+              cqpid="LEMANSXML1551735994193"
+              desc="&lt;pre&gt;&lt;br/&gt;Corpus créé pour la formation TXM à Neuchâtel&lt;br/&gt;- JB Camps&lt;br/&gt;- 13 février 2018&lt;br/&gt;- source: Paul Fièvre, Théâtre classique&lt;br/&gt;&lt;/pre&gt;"
+              encoding="UTF-8"
+              font=""
+              lang="fr"
+              name="LEMANSXML">
+         <tokenizer onlyThoseTests="false" skip="false">
+            <param name="whitespaces">[\p{Z}\p{C}]+</param>
+            <param name="regPunct">[\p{Ps}\p{Pe}\p{Pi}\p{Pf}\p{Po}\p{S}]</param>
+            <param name="punct_strong">[.!?]|\.\.|\.\.\.|…|\|</param>
+            <param name="regElision">['‘’]</param>
+         </tokenizer>
+         <xslt xsl="/home/jbc/Data/F/Cours, interventions, colloques,/2018-02-12_Neuchatel/github/12_TXM/corpora/02_theatre17/xsl/import_xml_filtre.xsl"/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis>
+            <ui command="textualplans">
+               <word>w</word>
+            </ui>
+            <ui command="concordance">
+               <context_limits type="list">text</context_limits>
+            </ui>
+         </uis>
+         <editions default="default">
+       	    <edition build_edition="true"
+                     mode="groovy"
+                     name="default"
+                     page_break_tag="pb"
+                     script="pager.groovy"
+                     words_per_page="500"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <knowledgeRepositories/>
+         <preBuild/>
+         <parameters/>
+      </corpus>
+   </corpora>
+</import>
